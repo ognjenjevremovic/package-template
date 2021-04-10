@@ -107,8 +107,9 @@ There are a few basic ground-rules for contributors:
 10. In case it is not possible to reach consensus in a pull-request, the decision is left to the lead maintainer.
 
 
-## Project setup
-Setup the project by installing dependencies using the following command:
+## Code of Conduct
+Everyone participating is governed by the [Code of Conduct](CODE_OF_CONDUCT).
+By participating, you are expected to uphold this code. Please read the full text so that you can read which actions may or may not be tolerated.
 
 ```$ npm ci```
 
