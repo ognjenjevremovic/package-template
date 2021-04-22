@@ -1,6 +1,6 @@
-# How to become a contributor and submit your own code to {{variable}}
+# How to become a contributor and submit your own code to {{name}}
 
-I really appreciate your interest and effort to contribute to {{variable}}. It's people like you that make the open source community such a great community!
+I really appreciate your interest and effort to contribute to {{name}}. It's people like you that make the open source community such a great community!
 All efforts to contribute are highly appreciated and encouraged.
 I recommend you open an issue first describing your feature request (bug report, documentation change, etc) prior to spending a lot of time making a PR that may not align with the project roadmap.
 
@@ -26,7 +26,7 @@ It would be great if you could post screenshots, exceptions, full stack trace, p
 Feel free to join a discussion on an existing issue in any point of time and provide more context, give feedback or your expertise on how we can resolve the issue.
 
 Before submitting an issue, please make sure:
-* You are experiencing a concrete technical issue with {{variable}},
+* You are experiencing a concrete technical issue with {{name}},
 * You have already searched for related issues and found none open (if you found a related closed issue, please link to it from your issue),
 * Your issue title is concise, on-topic and polite,
 * You can and do provide steps to reproduce your issue,
@@ -120,7 +120,7 @@ You can run the test suites by using the following command:
 
 
 ## Credits
-Thank you to all the people who have already contributed to {{variable}}!
+Thank you to all the people who have already contributed to {{name}}!
 
 
 ## Developer's Certificate of Origin 1.1
